@@ -2,3 +2,4 @@ what
 where
 who
 whom
+whereis
