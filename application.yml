@@ -6,11 +6,9 @@ spring:
 spring: 
  profiles: dev #开发环境 
  application:  
-  name: 
-  cloud-config-dev
+  name: cloud-config-dev
 ---
 spring: 
  profiles: test #测试环境 
  application:  
-  name: 
-  cloud-config-test
+  name: cloud-config-test
